@@ -1,2 +1,2 @@
 # DiffieHellman
-Diffie-Hellman
+Implementation of Diffie-Hellman in C++
